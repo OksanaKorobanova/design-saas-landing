@@ -59,7 +59,7 @@ const Hero = () => {
           ref={leftDesignScope}
           initial={{ opacity: 0, y: 100, x: -100 }}
           drag
-          className='hidden lg:block absolute -left-40 top-16 '>
+          className='hidden lg:block absolute -left-40 top-16'>
           <Image
             src={designExample1Img}
             alt='1 design example'
@@ -70,7 +70,7 @@ const Hero = () => {
           ref={rightDesignScope}
           initial={{ opacity: 0, x: 100, y: 100 }}
           drag
-          className='hidden lg:block absolute -right-72 -top-16 '>
+          className='hidden lg:block absolute -right-72 -top-16'>
           <Image
             src={designExample2Img}
             alt='2 design example'

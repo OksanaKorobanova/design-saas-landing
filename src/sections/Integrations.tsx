@@ -63,6 +63,7 @@ const Integrations = () => {
               <IntegrationColumn
                 integrations={integrations.slice().reverse()}
                 className='hidden md:flex'
+                isReversed
               />
             </div>
           </div>
