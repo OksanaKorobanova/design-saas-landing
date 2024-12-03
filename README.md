@@ -11,7 +11,7 @@ Design SaaS Landing Page with animations.
 
 ## Screens
 
-![Landing page](https://raw.githubusercontent.com/OksanaKorobanova/design-saas-landing/refs/heads/main/public/design-saas.png)
+![Landing page](https://raw.githubusercontent.com/OksanaKorobanova/design-saas-landing/refs/heads/main/public/design-saas.png?token=GHSAT0AAAAAACXH5DGWC3RIOC2OTX67GEAQZ2PO4FQ)
 
 ## Getting Started
 
